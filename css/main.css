@@ -395,9 +395,6 @@ kbd {
   position: absolute;
   top: -9999px;
 }
-.use-motion .motion-element {
-  opacity: 0;
-}
 .table-container {
   margin: 20px 0;
   overflow: auto;
@@ -1697,7 +1694,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9eff77;
+  background: #8322bb;
 }
 .feed-link,
 .chat {
@@ -2618,9 +2615,6 @@ ul.breadcrumb li+li:last-child {
 }
 .sub-menu .menu-item-active a::after {
   content: initial;
-}
-.use-motion .sidebar .motion-element {
-  opacity: 1;
 }
 .sidebar {
   right: auto;
